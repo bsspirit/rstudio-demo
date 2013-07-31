@@ -3,3 +3,4 @@ sayHello<-function(name){
 }
 
 sayHello("Conan")
+sayHello("World")
