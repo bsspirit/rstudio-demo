@@ -1,0 +1,11 @@
+Package: sayHello
+Type: Package
+Title: R package demo for sayHell
+LazyLoad: yes
+Author: Dan Zhang
+Maintainer: Dan Zhang<bsspirit@gmail.com>
+Description: This package provides a package demo
+License: GPL
+Version: 1.0
+Date: 2013-07-31
+Depends: R (>= 3.0.1)
